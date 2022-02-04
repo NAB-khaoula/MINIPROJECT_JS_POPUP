@@ -9,4 +9,4 @@ This miniproject is an application of Event Basic.
 * Javascript
 
 ## Saved view of the popup
-<img src="https://github.com/NAB-khaoula/MINIPROJECT_JS_POPUP/blob/master/Result.png" />
+<img src="https://github.com/NAB-khaoula/MINIPROJECT_JS_POPUP/blob/main/Result.png" />
