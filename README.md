@@ -7,3 +7,6 @@ This miniproject is an application of Event Basic.
 * HTML5
 * CSS3
 * Javascript
+
+## Saved view of the popup
+<img src="https://github.com/NAB-khaoula/MINIPROJECT_JS_POPUP/Result" />
