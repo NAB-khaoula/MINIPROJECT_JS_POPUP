@@ -1,5 +1,7 @@
 const popupWrapper = document.querySelector('.popupWrapper');
+
 const popupClose = document.querySelector('.popupClose');
+
 const button = document.querySelector('button');
 
 button.addEventListener('click', (e)=>{
