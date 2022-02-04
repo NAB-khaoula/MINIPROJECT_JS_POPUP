@@ -4,6 +4,6 @@
 This miniproject is an application of Event Basic.
 
 ## Technologies
-HTML5
-CSS3
-Javascript
+* HTML5
+* CSS3
+* Javascript
